@@ -1,10 +1,10 @@
 # BÀI LÀM – HACKATHON 01
 
 - **Mã đề:** 20
-- **Họ tên:** 
-- **Lớp:** 
-- **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
+- **Họ tên:** TRần Thái Huy
+- **Lớp:** KS26_CNTT1
+- **Link repository:** https://github.com/IT101-CNTT-KS26/HCM_KS26_CNTT1_Nhap_mon_CNTT_Hackathon02
+- **Hệ điều hành (Windows/macOS):** WINDOWS
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
